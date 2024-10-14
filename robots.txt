@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsecusti.github.io/sitemap.html.gz
+Sitemap: https://nsecusti.github.io/app/sitemap.html.gz
+Sitemap: https://nsecusti.github.io/assets/sitemap.html.gz
+Sitemap: https://nsecusti.github.io/css/sitemap.html.gz
+Sitemap: https://nsecusti.github.io/includes/sitemap.html.gz
+Sitemap: https://nsecusti.github.io/item/sitemap.html.gz
+Sitemap: https://nsecusti.github.io/src/sitemap.html.gz
